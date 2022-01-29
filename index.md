@@ -63,7 +63,7 @@
   <body>
     <div class="card">
       <div class="card-image">
-        <img src="../QRComponent/images/image-qr-code.png" />
+        <img src="../image-qr-code.png" />
       </div>
       <div class="card-content">
         <div class="card-title">
