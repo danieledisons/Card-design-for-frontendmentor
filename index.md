@@ -64,12 +64,11 @@
   <body>
     <div class="card">
       <div class="card-image">
-        <img src="![image-qr-code](https://user-images.githubusercontent.com/57553679/151673854-b9045c81-172a-4717-b648-e0b5990a4732.png)
-" />
+        <img src="https://user-images.githubusercontent.com/57553679/151673854-b9045c81-172a-4717-b648-e0b5990a4732.png" />
       </div>
       <div class="card-content">
         <div class="card-title">
-          Improve your front-end skills by building projects
+          Improve your front-end skills by building projects.
         </div>
         <div class="card-details">
           Scan the QR code to visit Frontend Mentor and take your coding to the
