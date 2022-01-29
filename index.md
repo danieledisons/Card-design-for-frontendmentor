@@ -18,6 +18,7 @@
     <style>
       @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 
+
       body {
         font-family: "Outfit", sans-serif;
         background-color: hsl(212, 45%, 89%);
@@ -63,7 +64,8 @@
   <body>
     <div class="card">
       <div class="card-image">
-        <img src="../image-qr-code.png" />
+        <img src="![image-qr-code](https://user-images.githubusercontent.com/57553679/151673854-b9045c81-172a-4717-b648-e0b5990a4732.png)
+" />
       </div>
       <div class="card-content">
         <div class="card-title">
